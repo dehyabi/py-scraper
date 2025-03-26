@@ -1,6 +1,4 @@
-# Py Scraper
-
-## Description
+# Py-Scraper
 
 This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. It allows users to search for information and store the results in a PostgreSQL database.
 
@@ -20,7 +18,7 @@ This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. 
    - **selenium-headless**: Uses Selenium to scrape without opening a browser.
    - **selenium-gui**: Uses Selenium with a graphical user interface (need Chrome installed).
 
-   For example you use beautifulsoup-headless just do: 
+   For example you use beautifulsoup-headless just do:
 
    ```bash
    cd beautifulsoup-headless
@@ -110,4 +108,4 @@ Check the logs for information on the operations performed by the application.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENCE.md) file for details.
