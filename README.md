@@ -108,4 +108,4 @@ Check the logs for information on the operations performed by the application.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENCE.md) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE.md) file for details.
