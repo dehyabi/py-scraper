@@ -39,7 +39,7 @@ This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. 
 4. **Create a virtual environment:**
 
    ```bash
-   python -m venv venv
+   python3 -m venv venv
    source venv/bin/activate
    ```
 
