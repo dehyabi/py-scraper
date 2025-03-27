@@ -64,7 +64,7 @@ This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. 
 8. **Test the search endpoint:**
    Use curl to test the search functionality:
    ```bash
-   curl -X POST http://127.0.0.1:5000/search -H "Content-Type: application/json" -d '{"candidate_id": 3, "query": "technology"}'
+   curl -X POST http://127.0.0.1:5000/search -H "Content-Type: application/json" -d '{"query": "technology"}'
    ```
 
 ## Database Interaction
