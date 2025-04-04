@@ -1,6 +1,6 @@
 # Py-Scraper
 
-This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. It allows users to search for information and store the results in a PostgreSQL database.
+This project is a web scraper built using Flask, BeautifulSoup, Selenium, ScrapeGraphAI and PostgreSQL. It allows users to search for information and store the results in a PostgreSQL database.
 
 ## Setup Instructions
 
@@ -14,9 +14,8 @@ This project is a web scraper built using Flask, BeautifulSoup, and PostgreSQL. 
 2. **Choose your scraping tools:**
 
    - **beautifulsoup-headless**: Uses BeautifulSoup for scraping without opening a browser.
-   - **scrapegraphai-headless**: Uses ScrapeGraphAI for scraping without opening a browser (need OpenAI API Key).
    - **selenium-headless**: Uses Selenium to scrape without opening a browser.
-   - **selenium-gui**: Uses Selenium with a graphical user interface (need Chrome installed).
+   - **scrapegraphai-headless**: Uses ScrapeGraphAI for scraping without opening a browser (need OpenAI API Key).
 
    For example you use beautifulsoup-headless just do:
 
