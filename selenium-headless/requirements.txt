@@ -1,1 +1,5 @@
-selenium==4.0.0
+Flask
+psycopg2
+python-dotenv
+selenium
+webdriver-manager
